@@ -12,7 +12,7 @@ A small, opinionated React + Vite demo that showcases routing patterns with `rea
 
 - **Framework:** React
 - **Bundler / Dev Server:** Vite
-- **Routing:** `react-router-dom` (v6)
+- **Routing:** `react-router-dom` 
 - **Language:** JavaScript (JSX)
 
 ## 🎨 Tailwind CSS
